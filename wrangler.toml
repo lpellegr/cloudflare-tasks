@@ -1,0 +1,12 @@
+name = "tasks"
+type = "javascript"
+
+account_id = "3c40021d5d7f584f4bbfd47a26de8b9b"
+workers_dev = true
+# route = ""
+# zone_id = ""
+compatibility_date = "2021-10-30"
+
+kv_namespaces = [
+  { binding = "TODOS", id = "108418255820431db9f8669084c0b01f", preview_id = "45ea7dd82a6441348f0c922999c3d66e" }
+]
